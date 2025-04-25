@@ -6,7 +6,7 @@ console.log(typeof valueIntNumber);
 let apple="hitesh"
 console.log(typeof apple);
 console.log(typeof (apple)); 
-let abhi="boolean"
+let abhi="boolean" 
 console.log(typeof abhi);
 console.log(typeof (abhi)); 
 let nah="null"
