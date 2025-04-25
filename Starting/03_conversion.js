@@ -1,0 +1,14 @@
+let score="33"
+console.log(typeof score);
+console.log(typeof (score)); 
+let valueIntNumber=Number(score)
+console.log(typeof valueIntNumber);
+let apple="hitesh"
+console.log(typeof apple);
+console.log(typeof (apple)); 
+let abhi="boolean"
+console.log(typeof abhi);
+console.log(typeof (abhi)); 
+let nah="null"
+console.log(typeof nah);
+console.log(typeof (nah)); 
